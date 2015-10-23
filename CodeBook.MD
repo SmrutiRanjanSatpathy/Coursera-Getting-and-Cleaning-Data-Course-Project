@@ -48,3 +48,4 @@ Replaced name of final clean data.
 
 ## Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
 Peer the project instructions, we need to produce only a data set with the average of each veriable for each activity and subject.
+reshape2 package has been used for melting & decasting clean data to create tidy data set. So; if the same package is not being installed in the machine, code will automatically install the reshape2 package.
